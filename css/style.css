@@ -390,7 +390,10 @@ header .intro-text .intro-heading {
 .dark-bg .section-text h4 {
     color: #5d43b3;
 }
-
+.h4-style {
+    width: 200px;
+	text-align: center;
+}
 /*--------------------
 4.3. Portfolio
 --------------------*/
