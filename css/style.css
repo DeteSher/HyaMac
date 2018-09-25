@@ -214,6 +214,14 @@ section ul li:before {
     }
 }
 
+.navbar-header > a > img {
+	width: 60px; 
+	height: 60px; 
+	margin-top: 5px;
+}
+#bs-example-navbar-collapse-1 > ul > li > .page-scroll{
+	color: #5d43b3;
+}
 .copyrights {
     text-indent: -9999px;
     height: 0;
@@ -258,7 +266,7 @@ header .intro-text .intro-lead-in {
     padding: 4px 20px;
     font-family: "Open Sans", sans-serif;
     font-size: 19px;
-    color: #3E3E3E;
+    color: #5d43b3;
     font-weight: 300;
     line-height: 40px;
 }
@@ -280,7 +288,7 @@ header .intro-text .intro-heading {
     letter-spacing: -3px;
     word-spacing: 10px;
     color: #FFFFFF;
-    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px #5d43b3;
 }
 
 @media (min-width: 768px) {
@@ -289,6 +297,10 @@ header .intro-text .intro-heading {
         font-size: 77px;
         margin-bottom: 50px;
     }
+}
+
+header .intro-text #about {
+    background-color: #fed136;
 }
 
 /*--------------------
