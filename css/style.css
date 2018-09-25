@@ -214,14 +214,16 @@ section ul li:before {
     }
 }
 
-.navbar-header > a > img {
-	width: 60px; 
-	height: 60px; 
-	margin-top: 5px;
+.navbar-header a > img {
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
 }
-#bs-example-navbar-collapse-1 > ul > li > .page-scroll{
-	color: #5d43b3;
+
+#bs-example-navbar-collapse-1 > ul > li > .page-scroll {
+    color: #5d43b3;
 }
+
 .copyrights {
     text-indent: -9999px;
     height: 0;
@@ -402,10 +404,12 @@ header .intro-text #about {
 .dark-bg .section-text h4 {
     color: #5d43b3;
 }
+
 .h4-style {
     width: 200px;
-	text-align: center;
+    text-align: center;
 }
+
 /*--------------------
 4.3. Portfolio
 --------------------*/
